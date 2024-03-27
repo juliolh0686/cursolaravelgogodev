@@ -1,2 +1,3 @@
 "# cursolaravelgogodev"
-Clase 02 Minuto=> 12:01
+Episodio 01 => Terminado
+Episodio 02 => Terminado - Plantillas Blade
